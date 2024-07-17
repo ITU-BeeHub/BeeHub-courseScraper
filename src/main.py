@@ -3,6 +3,8 @@ import requests
 import os
 import datetime
 
+from github import pushChanges
+
 base_url = "https://www.sis.itu.edu.tr/TR/ogrenci/ders-programi/ders-programi.php?seviye=LS"
 date = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
@@ -53,3 +55,5 @@ if __name__ == "__main__":
         # Write the course page to a file
         with open(f"../public/{date}/{course_code}.csv", "w", encoding="utf-8") as file:
             file.write("".join(rows))
+
+    pushChanges(os.path.dirname("../"), f"Add course schedules for {date}")

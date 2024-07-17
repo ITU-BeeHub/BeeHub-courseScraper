@@ -16,6 +16,3 @@ def pushChanges(repo_path: os.PathLike, commit_message: str):
     origin = repo.remote(name="origin")
     origin.push()
 
-
-if __name__ == "__main__":
-    pushChanges(os.path.dirname("../"), "Add course pages")
