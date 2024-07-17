@@ -1,0 +1,2 @@
+# CourseScraper
+Scraping courses periodically
