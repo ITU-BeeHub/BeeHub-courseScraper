@@ -57,4 +57,8 @@ if __name__ == "__main__":
         with open(file_path, "w", encoding="utf-8") as file:
             file.write("".join(rows))
 
+    # Update most_recent.txt file
+    with open(os.path.join(repo_root_dir, "public", "most_recent.txt"), "w") as file:
+        file.write(date)
+
     pushChanges(repo_root_dir, f"Add course schedules for {date}")
