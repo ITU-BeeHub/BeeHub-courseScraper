@@ -13,7 +13,7 @@ def pushChanges(repo_path: os.PathLike, commit_message: str):
     repo.index.commit(commit_message)
 
     # push the changes to the remote repository
-    origin = repo.remote(name="main")
+    origin = repo.remote(name="origin")
     origin.push()
 
 
