@@ -1,6 +1,7 @@
 import os
 import requests
 import datetime
+import json
 
 from github import pushChanges
 from bs4 import BeautifulSoup
@@ -60,5 +61,9 @@ if __name__ == "__main__":
     # Update most_recent.txt file
     with open(os.path.join(repo_root_dir, "public", "most_recent.txt"), "w") as file:
         file.write(date)
+
+    # Update the course_codes.json file
+    with open(os.path.join(repo_root_dir, "public", "course_codes.json"), "w") as file:
+        json.dump(course_codes, file)
 
     pushChanges(repo_root_dir, f"Add course schedules for {date}")
