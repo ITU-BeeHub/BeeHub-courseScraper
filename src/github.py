@@ -7,7 +7,7 @@ def pushChanges(repo_path: os.PathLike, commit_message: str):
     repo = git.Repo.init(repo_path)
 
     # add all files under public folder to the staging area
-    repo.git.add("public/*")
+    repo.git.add(os.path.join(repo_path, "public", "*"))
 
     # commit the changes
     repo.index.commit(commit_message)

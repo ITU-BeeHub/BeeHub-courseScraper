@@ -57,4 +57,4 @@ if __name__ == "__main__":
         with open(file_path, "w", encoding="utf-8") as file:
             file.write("".join(rows))
 
-    #pushChanges(os.path.dirname("../"), f"Add course schedules for {date}")
+    pushChanges(repo_root_dir, f"Add course schedules for {date}")
