@@ -1,0 +1,6 @@
+CRN,Course Code ,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity ,Enrolled,ReservationMaj./Cap./Enrl.,Major Restriction,Prerequisites,Class Rest.
+30281,UCK 207E,Thermodynamics,,Cemil  Kurtcebe,UUBUUB,Çarşamba Perşembe ,1330/1729 1430/1729 ,D-Z09 D-Z09 ,85,125,Yok/None,UCK, UZBE, (KIM 101 MIN DDveya KIM 101E MIN DD)ve (FIZ 102 MIN DDveya FIZ 102E MIN DD)ve (MAT 103 MIN DDveya MAT 103E MIN DD),Yok/None
+30186,UCK 305E,Aerodynamics,,Hayri  Acar,UUBUUB,Salı Çarşamba ,0900/1259 0900/1159 ,D-Z08 D-Z08 ,60,88,Yok/None,UCK, UZBE, AKM 214 MIN DDveya AKM 214E MIN DDveya AKM 219 MIN DDveya AKM 219E MIN DDveya AKM 204 MIN DDveya AKM 204E MIN DDveya AKM 205 MIN DDveya AKM 205E MIN DD,Yok/None
+30351,UCK 322E,Flight Mechanics,,Hayri  Acar,UUBUUB,Çarşamba Perşembe ,1300/1659 1400/1659 ,D-Z08 D-Z08 ,60,50,Yok/None,UCK, UCKE, UCKM,Yok/None,Yok/None
+30282,UCK 421,Tepki ile Tahrik,,Cemil  Kurtcebe,UUBUUB,Pazartesi Salı ,1330/1729 1430/1729 ,D-Z09 D-Z09 ,40,45,Yok/None,UCK, UCKM,Yok/None,4.Sınıf
+30278,UCK 441E,Flight Stability and Control,,--,UUBUUB,Çarşamba Perşembe ,1300/1659 1400/1659 ,--- --- ,0,0,Yok/None,UCK, UCKE, UCKM, UCK 360 MIN DDveya UCK 360E MIN DDveya UCK 362 MIN DDveya UCK 362E MIN DDveya UCK 303 MIN DDveya UCK 303E MIN DDve (UCK 322 MIN DDveya UCK 322E MIN DD),Yok/None
