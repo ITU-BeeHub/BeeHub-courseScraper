@@ -40,7 +40,7 @@ def get_courses(program_seviye, ders_brans_kodu_id):
         "dersBransKoduId": ders_brans_kodu_id,
         "__RequestVerificationToken": "<your_verification_token_here>"
     }
-    response = requests.post(url, headers=HEADERS, data=data)
+    response = requests.get(url, headers=HEADERS, data=data)
     if response.status_code == 200:
         return response.json()
     else:
