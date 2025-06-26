@@ -1,0 +1,23 @@
+[
+  {
+    "crn": "30282",
+    "course_code": "DFH 278E",
+    "course_title": "Maritime Economics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sinan Çakır",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Pazartesi",
+        "time": "08:30/13:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS, MEN_LS, MTM_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

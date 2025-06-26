@@ -1,0 +1,56 @@
+[
+  {
+    "crn": "30411",
+    "course_code": "ELK 322E",
+    "course_title": "Power Transmission Systems",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mustafa Bağrıyanık ,Ömer Usta ,Zehra Elif Batman",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Salı",
+        "time": "12:30/16:29",
+        "room": "5302"
+      },
+      {
+        "building": "EEB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "5302"
+      }
+    ],
+    "capacity": "40",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ELK_LS, ELKE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ELK&dersNo=322E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30341",
+    "course_code": "ELK 343",
+    "course_title": "Elektromekanik Enerji Dönüşümü",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Murat İmeryüz",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Salı",
+        "time": "09:30/12:29",
+        "room": "5302"
+      },
+      {
+        "building": "EEB",
+        "day": "Çarşamba",
+        "time": "09:30/13:29",
+        "room": "5302"
+      }
+    ],
+    "capacity": "35",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EHB_LS, ELK_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ELK&dersNo=343",
+    "credit_class_resc": "-"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "crn": "30122",
+    "course_code": "ING 100",
+    "course_title": "EAP Through Global Goals",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Merve Sevtap Süren",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/11:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/12:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30128",
+    "course_code": "ING 100",
+    "course_title": "EAP Through Global Goals",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Merve Sevtap Süren",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:00/16:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:00/15:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30130",
+    "course_code": "ING 100",
+    "course_title": "EAP Through Global Goals",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Yasemin Yılmaz Yüksek",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:00/11:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/12:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30133",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Halime Ceren Göktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30134",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Halime Ceren Göktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30135",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Halime Ceren Göktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30136",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Halime Ceren Göktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30137",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Halime Ceren Göktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30138",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Halime Ceren Göktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30139",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Yurdanur Toktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30140",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Yurdanur Toktaş",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30141",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Aslıhan Zengin",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30142",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Aslıhan Zengin",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30143",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Hacer Şivil",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30144",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Hacer Şivil",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30145",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Hacer Şivil",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30148",
+    "course_code": "ING 112A",
+    "course_title": "Basics of Academic Writing",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Hacer Şivil",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30366",
+    "course_code": "ING 201",
+    "course_title": "English III",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Gürcan Öztürk",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "09:00/11:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Cuma",
+        "time": "09:00/12:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EHN_LS, SED_LS, SGI_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30155",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Esra Sancak",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30157",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Esra Sancak",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30159",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Esra Sancak",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30162",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Esra Sancak",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30164",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Esra Sancak",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30165",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Esra Sancak",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30166",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Aslıhan Zengin",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30167",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Aslıhan Zengin",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30168",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Aslıhan Zengin",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30169",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Özlem Ayar Gemalmaz",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30171",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Nurçin Ramadanoğlu",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30172",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Nurçin Ramadanoğlu",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30173",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Gürcan Öztürk",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:00/11:29",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30174",
+    "course_code": "ING 201A",
+    "course_title": "Essentials of Res.Paper Writ.",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Gürcan Öztürk",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "11:30/13:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "11:30/13:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZ_LS, GEM_LS, GEO_LS, GEOE_LS, GID_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTO_LS, NAE_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SBP_LS, SBPE_LS, SECE_LS, TEKE_LS, UCK_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ING&dersNo=201A",
+    "credit_class_resc": "-"
+  }
+]

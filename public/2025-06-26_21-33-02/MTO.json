@@ -1,0 +1,95 @@
+[
+  {
+    "crn": "30083",
+    "course_code": "MTO 214",
+    "course_title": "Atmosfer Termodinamiği",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kasım Koçak",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Pazartesi",
+        "time": "12:30/17:29",
+        "room": "2D12"
+      },
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "12:30/16:59",
+        "room": "2D12"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IBM_LS, MTO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30084",
+    "course_code": "MTO 311E",
+    "course_title": "Data Analysis",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kasım Koçak",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "2D12"
+      },
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "2D12"
+      },
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "08:30/12:29",
+        "room": "2D12"
+      },
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "13:30/15:29",
+        "room": "2D12"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IBM_LS, MTO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30087",
+    "course_code": "MTO 340",
+    "course_title": "Atmosfer Dinamiği II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Elçin Tan",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "13:00/17:29",
+        "room": "2D11"
+      },
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "12:30/17:29",
+        "room": "2D11"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IBM_LS, MTO_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MTO&dersNo=340",
+    "credit_class_resc": "-"
+  }
+]

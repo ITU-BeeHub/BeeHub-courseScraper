@@ -1,0 +1,626 @@
+[
+  {
+    "crn": "30089",
+    "course_code": "MAT 103E",
+    "course_title": "Mathematics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Burhaneddin İzgi",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "D102"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "D102"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "D102"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IAD_LS, ICM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30090",
+    "course_code": "MAT 103E",
+    "course_title": "Mathematics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Burhaneddin İzgi",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:00/16:59",
+        "room": "D102"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:00/16:59",
+        "room": "D102"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "13:00/16:59",
+        "room": "D102"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IAD_LS, ICM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30091",
+    "course_code": "MAT 103E",
+    "course_title": "Mathematics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Soner Aydınlık",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:00/16:59",
+        "room": "D103"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:00/16:59",
+        "room": "D103"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "13:00/16:59",
+        "room": "D103"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IAD_LS, ICM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30092",
+    "course_code": "MAT 103E",
+    "course_title": "Mathematics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Ali Karaca",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "D104"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "D104"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "D104"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IAD_LS, ICM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30093",
+    "course_code": "MAT 103E",
+    "course_title": "Mathematics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Ali Karaca",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "D104"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "D104"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "D104"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IAD_LS, ICM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30094",
+    "course_code": "MAT 104E",
+    "course_title": "Mathematics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Füsun Zengin",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "D202"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "D202"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "D202"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=104E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30095",
+    "course_code": "MAT 104E",
+    "course_title": "Mathematics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Füsun Zengin",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "D202"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "D202"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "D202"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=104E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30096",
+    "course_code": "MAT 104E",
+    "course_title": "Mathematics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Nurhan Çolakoğlu",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "D203"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "D203"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "D203"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=104E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30097",
+    "course_code": "MAT 104E",
+    "course_title": "Mathematics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Nurhan Çolakoğlu",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "D203"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "D203"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "D203"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=104E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30098",
+    "course_code": "MAT 104E",
+    "course_title": "Mathematics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sezgin Altay Demirbağ",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "D204"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "D204"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "D204"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=104E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30099",
+    "course_code": "MAT 104E",
+    "course_title": "Mathematics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sezgin Altay Demirbağ",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "D204"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "D204"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "D204"
+      }
+    ],
+    "capacity": "110",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MEN_LS, MET_LS, METE_LS, MMD_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=104E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30216",
+    "course_code": "MAT 202",
+    "course_title": "Sayısal Yöntemler",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Birgül Benli",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "08:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, CHZ_LS, CHZ_YD, MAD_LS, PET_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=202",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30342",
+    "course_code": "MAT 210E",
+    "course_title": "Engineering Mathematics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kürşat Hasözdemir",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Pazartesi",
+        "time": "09:30/12:29",
+        "room": "A205"
+      },
+      {
+        "building": "MDB",
+        "day": "Pazartesi",
+        "time": "13:30/15:59",
+        "room": "A205"
+      },
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "A205"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=210E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30388",
+    "course_code": "MAT 210E",
+    "course_title": "Engineering Mathematics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Bayram Barış Kızılsaç",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "12:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Cuma",
+        "time": "08:30/10:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "40",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS, GMI_LS, IBM_LS, MEN_LS, MTM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=210E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30101",
+    "course_code": "MAT 234",
+    "course_title": "Kısmi Diferansiyel Denklemler",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kamil Oruçoğlu",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:30/16:59",
+        "room": "D206"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "D206"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAT_LS, MAT_YD_EC, MAT_YD_TE, MAT_YD_UY",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=234",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30129",
+    "course_code": "MAT 271E",
+    "course_title": "Probability and Statistics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Halil Bayraktar",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/11:29",
+        "room": "D106"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "12:30/16:29",
+        "room": "D106"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, JEF_LS, JEO_LS, KMM_LS, KMME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, SBP_LS, SBPE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30195",
+    "course_code": "MAT 271E",
+    "course_title": "Probability and Statistics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mustafa Sait Yazgan",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "B101"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "B101"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30196",
+    "course_code": "MAT 271E",
+    "course_title": "Probability and Statistics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mustafa Sait Yazgan",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "13:30/16:29",
+        "room": "B101"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "B101"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30197",
+    "course_code": "MAT 271E",
+    "course_title": "Probability and Statistics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mustafa Sait Yazgan",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "08:30/11:29",
+        "room": "B102"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "B102"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30100",
+    "course_code": "MAT 287",
+    "course_title": "Matematik III",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kamil Oruçoğlu",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "D206"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "D206"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "D206"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAT_LS, MAT_YD_EC, MAT_YD_TE, MAT_YD_UY",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAT&dersNo=287",
+    "credit_class_resc": "-"
+  }
+]

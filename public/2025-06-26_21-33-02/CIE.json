@@ -1,0 +1,35 @@
+[
+  {
+    "crn": "30409",
+    "course_code": "CIE 439",
+    "course_title": "Transportation Systems",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kemal Selçuk Öğüt",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "12:00/14:29",
+        "room": "ULAŞTIRM_A"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "12:00/14:29",
+        "room": "ULAŞTIRM_A"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "12:00/13:59",
+        "room": "ULAŞTIRM_A"
+      }
+    ],
+    "capacity": "10",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "SIN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=CIE&dersNo=439",
+    "credit_class_resc": "-"
+  }
+]

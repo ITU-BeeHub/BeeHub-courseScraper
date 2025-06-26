@@ -1,0 +1,83 @@
+[
+  {
+    "crn": "30088",
+    "course_code": "BIL 100E",
+    "course_title": "Intr.to Prog.Language(PYTHON)",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ahmet Öztopal",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "09:30/12:29",
+        "room": "D100"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "D100"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IBM_LS, MTO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30085",
+    "course_code": "BIL 112E",
+    "course_title": "Intr.to Prog.Language(FORTRAN)",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ahmet Öztopal",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "09:30/12:29",
+        "room": "D100"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "D100"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IBM_LS, MTO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30218",
+    "course_code": "BIL 112E",
+    "course_title": "Intr.to Prog.Language(FORTRAN)",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Doğa Doğan",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Pazartesi",
+        "time": "09:30/13:29",
+        "room": "B207"
+      },
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "09:30/12:29",
+        "room": "B207"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEF_LS, JEFE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

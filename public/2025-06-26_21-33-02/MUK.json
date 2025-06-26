@@ -1,0 +1,149 @@
+[
+  {
+    "crn": "30357",
+    "course_code": "MUK 203",
+    "course_title": "Mukavemet I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Oktay Eren Türeyen",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MEDC",
+        "day": "Pazartesi",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MUK&dersNo=203",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30358",
+    "course_code": "MUK 204",
+    "course_title": "Mukavemet II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Oktay Eren Türeyen",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MEDC",
+        "day": "Cuma",
+        "time": "14:00/16:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MUK&dersNo=204",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30417",
+    "course_code": "MUK 204E",
+    "course_title": "Strength of Materials II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Oktay Eren Türeyen",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEM_LS, GEME_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MUK&dersNo=204E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30320",
+    "course_code": "MUK 211",
+    "course_title": "Mukavemet",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Tahir Soyugüzel",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Pazartesi",
+        "time": "09:00/12:29",
+        "room": "ZD2"
+      },
+      {
+        "building": "MEDC",
+        "day": "Pazartesi",
+        "time": "13:30/16:29",
+        "room": "ZD2"
+      },
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "08:30/11:29",
+        "room": "ZD2"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MUK&dersNo=211",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30321",
+    "course_code": "MUK 211E",
+    "course_title": "Strength of Materials",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Tahir Soyugüzel",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "13:00/16:29",
+        "room": "ZD2"
+      },
+      {
+        "building": "MEDC",
+        "day": "Cuma",
+        "time": "09:30/12:29",
+        "room": "ZD2"
+      },
+      {
+        "building": "MEDC",
+        "day": "Cuma",
+        "time": "14:30/17:29",
+        "room": "ZD2"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS, UZB_LS, UZBE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MUK&dersNo=211E",
+    "credit_class_resc": "-"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "crn": "30307",
+    "course_code": "BLG 222E",
+    "course_title": "Computer Organization",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kadir Özlem",
+    "schedules": [
+      {
+        "building": "BBB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Perşembe",
+        "time": "08:30/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "80",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, BLGE_LS, CEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=BLG&dersNo=222E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30310",
+    "course_code": "BLG 223E",
+    "course_title": "Data Structures",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yusuf Hüseyin Şahin",
+    "schedules": [
+      {
+        "building": "BBB",
+        "day": "Pazartesi",
+        "time": "10:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Pazartesi",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Cuma",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Cuma",
+        "time": "14:30/15:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "80",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, BLGE_LS, CEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=BLG&dersNo=223E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30308",
+    "course_code": "BLG 312E",
+    "course_title": "Computer Operating Systems",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Nizamettin Aydın",
+    "schedules": [
+      {
+        "building": "BBB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "80",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, BLGE_LS, CEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=BLG&dersNo=312E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30309",
+    "course_code": "BLG 322E",
+    "course_title": "Computer Architecture",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Nizamettin Aydın",
+    "schedules": [
+      {
+        "building": "BBB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "80",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, BLGE_LS, CEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=BLG&dersNo=322E",
+    "credit_class_resc": "-"
+  }
+]

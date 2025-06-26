@@ -1,0 +1,281 @@
+[
+  {
+    "crn": "30311",
+    "course_code": "INS 217",
+    "course_title": "Mukavemet I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Teoman Özer",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "B201"
+      },
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "B201"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "08:30/09:59",
+        "room": "B201"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "INS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=INS&dersNo=217",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30312",
+    "course_code": "INS 218",
+    "course_title": "Mukavemet II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Teoman Özer",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "B201"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "B201"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "10:30/11:59",
+        "room": "B201"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "INS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=INS&dersNo=218",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30332",
+    "course_code": "INS 232E",
+    "course_title": "Surveying",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mert Bezcioğlu",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "09:00/11:59",
+        "room": "B101"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "B101"
+      }
+    ],
+    "capacity": "35",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "INS_LS, INSE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30420",
+    "course_code": "INS 302E",
+    "course_title": "Highway Engineering",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kemal Selçuk Öğüt",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "14:30/17:29",
+        "room": "A301"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "14:30/17:29",
+        "room": "A301"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "14:00/17:29",
+        "room": "A301"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "AIN_LS, INS_LS, INSE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=INS&dersNo=302E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30315",
+    "course_code": "INS 354",
+    "course_title": "Hidroloji",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yavuz Selim Güçlü",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "09:00/12:29",
+        "room": "A201"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:00/16:29",
+        "room": "A201"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "INS_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30316",
+    "course_code": "INS 354",
+    "course_title": "Hidroloji",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yavuz Selim Güçlü",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "13:00/16:29",
+        "room": "A201"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "09:00/12:29",
+        "room": "A201"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "INS_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30337",
+    "course_code": "INS 360",
+    "course_title": "Hidrolik",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Necati Erdem Ünal",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "A204"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "A204"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "08:30/09:59",
+        "room": "A204"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, INS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=INS&dersNo=360",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30338",
+    "course_code": "INS 360",
+    "course_title": "Hidrolik",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Necati Erdem Ünal",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "A204"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "A204"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "08:30/09:59",
+        "room": "A204"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, INS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=INS&dersNo=360",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30313",
+    "course_code": "INS 360E",
+    "course_title": "Hydraulics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Erdal Kesgin",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "B202"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "B202"
+      },
+      {
+        "building": "INB",
+        "day": "Cuma",
+        "time": "09:30/11:59",
+        "room": "B202"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "AIN_LS, INS_LS, INSE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=INS&dersNo=360E",
+    "credit_class_resc": "-"
+  }
+]

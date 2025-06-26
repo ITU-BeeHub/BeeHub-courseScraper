@@ -1,0 +1,83 @@
+[
+  {
+    "crn": "30215",
+    "course_code": "TER 201",
+    "course_title": "Termodinamik",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Birgül Benli",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, CHZ_LS, JEF_LS, JEO_LS, KMM_LS, PET_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=TER&dersNo=201",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30361",
+    "course_code": "TER 201",
+    "course_title": "Termodinamik",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Halil Saraçoğlu",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "09:30/13:29",
+        "room": "--"
+      },
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "40",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, CHZ_LS, DEN_LS, JEF_LS, JEO_LS, KMM_LS, KOM_LS, PET_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=TER&dersNo=201",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30363",
+    "course_code": "TER 201E",
+    "course_title": "Thermodynamics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Halil Saraçoğlu",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "09:30/13:29",
+        "room": "--"
+      },
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "40",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEVE_LS, CHZE_LS, DENE_LS, JEFE_LS, JEOE_LS, KMME_LS, KOME_LS, PETE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=TER&dersNo=201E",
+    "credit_class_resc": "-"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "crn": "30339",
+    "course_code": "AKM 204",
+    "course_title": "Akışkanlar Mekaniği",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Necati Erdem Ünal",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "10:00/12:59",
+        "room": "A204"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "A204"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, INS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=AKM&dersNo=204",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30340",
+    "course_code": "AKM 204",
+    "course_title": "Akışkanlar Mekaniği",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Necati Erdem Ünal",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "10:00/12:59",
+        "room": "A204"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "A204"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, INS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=AKM&dersNo=204",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30314",
+    "course_code": "AKM 204E",
+    "course_title": "Fluid Mechanics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Erdal Kesgin",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "B202"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "B202"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "NAE/5/0 | Diğer/25/0",
+    "major_restriction": "INS_LS, INSE_LS, NAE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=AKM&dersNo=204E",
+    "credit_class_resc": "-"
+  }
+]

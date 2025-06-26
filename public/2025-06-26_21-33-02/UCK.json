@@ -1,0 +1,83 @@
+[
+  {
+    "crn": "30080",
+    "course_code": "UCK 305E",
+    "course_title": "Aerodynamics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hayri Acar",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "09:00/12:59",
+        "room": "1D10"
+      },
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "09:00/11:59",
+        "room": "1D10"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS, UZB_LS, UZBE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=UCK&dersNo=305E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30082",
+    "course_code": "UCK 322E",
+    "course_title": "Flight Mechanics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hayri Acar",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "13:00/16:59",
+        "room": "1D10"
+      },
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "14:00/16:59",
+        "room": "1D10"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS, UCK_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30318",
+    "course_code": "UCK 421",
+    "course_title": "Tepki ile Tahrik",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Cemil Kurtcebe",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "ZA1"
+      },
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "09:00/11:59",
+        "room": "ZA1"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS, UCK_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "Detay"
+  }
+]

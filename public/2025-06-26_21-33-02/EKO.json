@@ -1,0 +1,56 @@
+[
+  {
+    "crn": "30272",
+    "course_code": "EKO 201E",
+    "course_title": "Economics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sinan Çakır",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "12:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30329",
+    "course_code": "EKO 201E",
+    "course_title": "Economics",
+    "teaching_method": "Sanal (Çevrimiçi/Online)",
+    "instructor": "Ayşegül Kayaoğlu Yılmaz ,Şerife Genç İleri",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "09:30/12:59",
+        "room": "--"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "09:30/12:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "300",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, IAD_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, JEF_LS, JEO_LS, JEOE_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, MTOE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, SBP_LS, SBPE_LS, SED_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "crn": "30291",
+    "course_code": "CAB 243",
+    "course_title": "Yrd.Çalgı Piyano III",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Alper Rumelioğlu",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Pazartesi",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Salı",
+        "time": "10:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BST_LS, CAB_LS, CEB_LS, KMP_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30290",
+    "course_code": "CAB 244",
+    "course_title": "Yrd.Çalgı Piyano IV",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Alper Rumelioğlu",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "10:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BST_LS, CAB_LS, CEB_LS, KMP_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30292",
+    "course_code": "CAB 344",
+    "course_title": "Yrd.Çalgı Piyano  VI",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Alper Rumelioğlu",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Pazartesi",
+        "time": "10:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BST_LS, CAB_LS, CEB_LS, KMP_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

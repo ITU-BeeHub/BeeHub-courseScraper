@@ -1,0 +1,221 @@
+[
+  {
+    "crn": "30295",
+    "course_code": "THO 311",
+    "course_title": "Oyun Analizi I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Eyüp Uzunkaya",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Pazartesi",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "09:30/10:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "THO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30296",
+    "course_code": "THO 312",
+    "course_title": "Oyun Analizi II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Eyüp Uzunkaya",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Pazartesi",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Salı",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "11:00/11:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "THO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30297",
+    "course_code": "THO 409",
+    "course_title": "20.yy'da Dans",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "İlknur Bektaş",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Pazartesi",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "09:30/10:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "THO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30298",
+    "course_code": "THO 411",
+    "course_title": "Geleneksel Giyim Kuşam I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "İlknur Bektaş",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Pazartesi",
+        "time": "13:30/15:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Salı",
+        "time": "09:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "THO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30299",
+    "course_code": "THO 412",
+    "course_title": "Geleneksel Giyim Kuşam II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "İlknur Bektaş",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Perşembe",
+        "time": "10:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "THO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30300",
+    "course_code": "THO 413",
+    "course_title": "Jest-Mimik",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Eyüp Uzunkaya",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "13:30/14:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Cuma",
+        "time": "14:00/16:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "THO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30301",
+    "course_code": "THO 417",
+    "course_title": "Sahne Projesi III (Kredisiz)",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "İlknur Bektaş",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Pazartesi",
+        "time": "15:30/16:59",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Cuma",
+        "time": "14:00/17:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "-",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

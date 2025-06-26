@@ -1,0 +1,182 @@
+[
+  {
+    "crn": "30412",
+    "course_code": "EEF 206E",
+    "course_title": "Signal Processing&Linear Syst.",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hakan Ali Çırpan",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Pazartesi",
+        "time": "09:30/12:59",
+        "room": "6309"
+      },
+      {
+        "building": "EEB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "6309"
+      },
+      {
+        "building": "EEB",
+        "day": "Cuma",
+        "time": "09:30/12:29",
+        "room": "6309"
+      }
+    ],
+    "capacity": "60",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30265",
+    "course_code": "EEF 211",
+    "course_title": "Elektrik Devre Temelleri",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Metin Hüner",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "5102"
+      },
+      {
+        "building": "EEB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "5102"
+      }
+    ],
+    "capacity": "55",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EHB_LS, ELK_LS, KOM_LS, ROS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=EEF&dersNo=211",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30266",
+    "course_code": "EEF 211E",
+    "course_title": "Basics of Electrical Circuits",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Bilgi Görkem Yazgaç",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "5102"
+      },
+      {
+        "building": "EEB",
+        "day": "Çarşamba",
+        "time": "09:30/12:29",
+        "room": "5102"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EEE_LS, EHBE_LS, ELKE_LS, KOME_LS, ROSE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=EEF&dersNo=211E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30268",
+    "course_code": "EEF 212E",
+    "course_title": "Electromagnetic Theory I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kamil Karaçuha ,Cemanur Aydınalp ,Semih Doğu",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Pazartesi",
+        "time": "08:30/11:29",
+        "room": "5102"
+      },
+      {
+        "building": "EEB",
+        "day": "Pazartesi",
+        "time": "12:30/15:29",
+        "room": "5102"
+      },
+      {
+        "building": "EEB",
+        "day": "Cuma",
+        "time": "14:00/17:29",
+        "room": "5102"
+      }
+    ],
+    "capacity": "60",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=EEF&dersNo=212E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30267",
+    "course_code": "EEF 232E",
+    "course_title": "Circuit and System Analysis",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Bilgi Görkem Yazgaç",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "5102"
+      },
+      {
+        "building": "EEB",
+        "day": "Perşembe",
+        "time": "08:30/12:29",
+        "room": "5102"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=EEF&dersNo=232E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30393",
+    "course_code": "EEF 262E",
+    "course_title": "Fundamentals of Electronics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mustafa Altun ,Mustafa Berke Yelten ,Tufan Coşkun Karalar",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Pazartesi",
+        "time": "13:30/16:59",
+        "room": "5202"
+      },
+      {
+        "building": "EEB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "5202"
+      },
+      {
+        "building": "EEB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "5202"
+      }
+    ],
+    "capacity": "80",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=EEF&dersNo=262E",
+    "credit_class_resc": "-"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "crn": "30261",
+    "course_code": "CEV 302E",
+    "course_title": "Biological Processes",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Rüya Taşlı ,Özlem Karahan Özgün",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "A203"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "A203"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "10:30/11:59",
+        "room": "A203"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, CEVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=CEV&dersNo=302E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30264",
+    "course_code": "CEV 347E",
+    "course_title": "Unit Operations",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Rüya Taşlı ,Özlem Karahan Özgün",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "09:30/13:29",
+        "room": "A203"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "A203"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, CEVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

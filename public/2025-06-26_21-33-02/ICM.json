@@ -1,0 +1,92 @@
+[
+  {
+    "crn": "30288",
+    "course_code": "ICM 366E",
+    "course_title": "Interior Arch.Desgn Studio III",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ethem Gürer",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Perşembe",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "7",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IAD_LS, ICM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ICM&dersNo=366E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30289",
+    "course_code": "ICM 449E",
+    "course_title": "Interior Arch.Desgn Studio IV",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ethem Gürer",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MMB",
+        "day": "Cuma",
+        "time": "14:30/17:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "7",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IAD_LS, ICM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=ICM&dersNo=449E",
+    "credit_class_resc": "-"
+  }
+]

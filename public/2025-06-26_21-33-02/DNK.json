@@ -1,0 +1,29 @@
+[
+  {
+    "crn": "30317",
+    "course_code": "DNK 201E",
+    "course_title": "Dynamics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ünal Aldemir",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "A202"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "A202"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "NAE/5/0 | Diğer/45/0",
+    "major_restriction": "GEM_LS, GEME_LS, INS_LS, INSE_LS, NAE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=DNK&dersNo=201E",
+    "credit_class_resc": "-"
+  }
+]

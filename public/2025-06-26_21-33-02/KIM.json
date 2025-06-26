@@ -1,0 +1,305 @@
+[
+  {
+    "crn": "30113",
+    "course_code": "KIM 101",
+    "course_title": "Genel Kimya I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Altuğ Mert Sevim",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "A31"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:00/15:59",
+        "room": "A31"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BLG_LS, CHZ_LS, DEN_LS, EHB_LS, ELE_LS, ELH_LS, ELK_LS, GID_LS, HTA_LS, IBM_LS, IML_LS, INS_LS, JEF_LS, JEO_LS, KIM_YD, KMM_LS, KMM_YD, KOM_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, PET_LS, ROS_LS, TEK_LS, TEK_YD, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30364",
+    "course_code": "KIM 101",
+    "course_title": "Genel Kimya I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Muhammet Übeydullah Kahveci",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "13:30/16:59",
+        "room": "A33"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A35"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MET_LS, METE_LS, MTO_LS, MTOE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEK_YD, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, VBAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30114",
+    "course_code": "KIM 101E",
+    "course_title": "General Chemistry I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Altuğ Mert Sevim",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:00/15:59",
+        "room": "A31"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "08:30/12:29",
+        "room": "A31"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEK_YD, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, VBAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30115",
+    "course_code": "KIM 101E",
+    "course_title": "General Chemistry I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Argun Talat Gökçeören",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "08:30/11:59",
+        "room": "A32"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "08:30/11:59",
+        "room": "A32"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEK_YD, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, VBAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30116",
+    "course_code": "KIM 101E",
+    "course_title": "General Chemistry I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Argun Talat Gökçeören",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "A32"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "A32"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEK_YD, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, VBAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30365",
+    "course_code": "KIM 101E",
+    "course_title": "General Chemistry I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Muhammet Übeydullah Kahveci",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Pazartesi",
+        "time": "08:30/11:59",
+        "room": "A33"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A35"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEK_YD, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, VBAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30117",
+    "course_code": "KIM 202",
+    "course_title": "Fiziksel Kimya",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Erdem Yavuz",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/11:59",
+        "room": "D101"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "D101"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELH_LS, ELK_LS, GEM_LS, GID_LS, GMI_LS, INS_LS, JEF_LS, JEO_LS, KIM_YD, KMM_LS, KOM_LS, MAD_LS, MET_LS, PET_LS, ROS_LS, TEL_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=KIM&dersNo=202",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30118",
+    "course_code": "KIM 202E",
+    "course_title": "Physical Chemistry",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Erdem Yavuz",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:30/16:59",
+        "room": "D101"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "D101"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, GEM_LS, GEME_LS, GEMK_LS, GID_LS, GMI_LS, INS_LS, INSE_LS, JEF_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MEN_LS, MET_LS, METE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, TEL_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=KIM&dersNo=202E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30119",
+    "course_code": "KIM 224E",
+    "course_title": "Inorganic Chemistry II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Altuğ Mert Sevim",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/11:29",
+        "room": "D106"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "D106"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "KIM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=KIM&dersNo=224E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30120",
+    "course_code": "KIM 231",
+    "course_title": "Organik Kimya I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Turan Öztürk",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "08:30/13:29",
+        "room": "D105"
+      },
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "08:30/12:59",
+        "room": "D105"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "KIM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=KIM&dersNo=231",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30121",
+    "course_code": "KIM 232",
+    "course_title": "Organik Kimya II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Turan Öztürk",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "14:30/17:29",
+        "room": "D105"
+      },
+      {
+        "building": "FEB",
+        "day": "Perşembe",
+        "time": "09:30/12:59",
+        "room": "D105"
+      },
+      {
+        "building": "FEB",
+        "day": "Perşembe",
+        "time": "14:30/17:29",
+        "room": "D105"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "KIM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=KIM&dersNo=232",
+    "credit_class_resc": "-"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "crn": "30355",
+    "course_code": "MAD 446E",
+    "course_title": "Computer Aided Mine Design",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kürşat Hasözdemir",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "14",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAD_LS, MADE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAD&dersNo=446E",
+    "credit_class_resc": "-"
+  }
+]

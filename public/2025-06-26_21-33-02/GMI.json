@@ -1,0 +1,326 @@
+[
+  {
+    "crn": "30418",
+    "course_code": "GMI 132E",
+    "course_title": "Numerical Analy. of Eng.Syst.",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ata Bilgili",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Pazartesi",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Pazartesi",
+        "time": "12:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GMI&dersNo=132E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30273",
+    "course_code": "GMI 228E",
+    "course_title": "Basic Electronics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Tayfun Uyanık",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "14:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30385",
+    "course_code": "GMI 301E",
+    "course_title": "Maritime Law",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Nuri Koray Kurun",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Cuma",
+        "time": "08:30/11:59",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Cuma",
+        "time": "14:00/15:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30274",
+    "course_code": "GMI 341E",
+    "course_title": "Automatic Control Systems",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Tayfun Uyanık",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "12:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "12:30/15:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GMI&dersNo=341E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30386",
+    "course_code": "GMI 352E",
+    "course_title": "Heat Transfer",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yalçın Durmuşoğlu",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "12:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GMI&dersNo=352E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30419",
+    "course_code": "GMI 454E",
+    "course_title": "Marine Auxiliary Machinery II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "İsmail Çiçek",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "12:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GMI&dersNo=454E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30275",
+    "course_code": "GMI 457E",
+    "course_title": "Marine Electrotechnics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Tayfun Uyanık",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "12:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30276",
+    "course_code": "GMI 462E",
+    "course_title": "Oper.of Steam&Gas Turbines",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yalçın Durmuşoğlu",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "12:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GMI&dersNo=462E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30387",
+    "course_code": "GMI 471E",
+    "course_title": "Refrigeration and HVAC Systems",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yasin Arslanoğlu",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "12:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30277",
+    "course_code": "GMI 473E",
+    "course_title": "Marine Diesel Engines III",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yalçın Durmuşoğlu",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Pazartesi",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Pazartesi",
+        "time": "12:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GMI&dersNo=473E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30278",
+    "course_code": "GMI 481E",
+    "course_title": "Marine Insurance",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sinan Çakır",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "12:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30279",
+    "course_code": "GMI 486E",
+    "course_title": "Shipping Finance",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sinan Çakır",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Cuma",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Cuma",
+        "time": "14:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GMI_LS, MEN_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

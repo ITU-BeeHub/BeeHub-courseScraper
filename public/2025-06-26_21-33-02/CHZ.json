@@ -1,0 +1,56 @@
+[
+  {
+    "crn": "30217",
+    "course_code": "CHZ 306",
+    "course_title": "Cevher Haz.Akışkanlar Mek.",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Birgül Benli",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "14:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "09:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CHZ_LS, CHZ_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30214",
+    "course_code": "CHZ 318",
+    "course_title": "Endüstriyel Hammaddeler",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Murat Olgaç Kangal",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Pazartesi",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Pazartesi",
+        "time": "08:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CHZ_LS, CHZ_YD, MAD_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

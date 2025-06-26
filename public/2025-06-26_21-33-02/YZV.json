@@ -1,0 +1,74 @@
+[
+  {
+    "crn": "30326",
+    "course_code": "YZV 104E",
+    "course_title": "Int.toPrg.forDataSci.(Python)",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Cihan Topal",
+    "schedules": [
+      {
+        "building": "BBB",
+        "day": "Pazartesi",
+        "time": "13:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Salı",
+        "time": "14:00/16:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Çarşamba",
+        "time": "09:30/12:59",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Çarşamba",
+        "time": "14:00/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30328",
+    "course_code": "YZV 201E",
+    "course_title": "Data Structures",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Faik Boray Tek",
+    "schedules": [
+      {
+        "building": "BBB",
+        "day": "Pazartesi",
+        "time": "09:30/13:29",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Salı",
+        "time": "09:30/11:59",
+        "room": "--"
+      },
+      {
+        "building": "BBB",
+        "day": "Perşembe",
+        "time": "09:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "YZVE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=YZV&dersNo=201E",
+    "credit_class_resc": "-"
+  }
+]

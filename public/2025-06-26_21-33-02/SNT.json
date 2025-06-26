@@ -1,0 +1,461 @@
+[
+  {
+    "crn": "30367",
+    "course_code": "SNT 103",
+    "course_title": "Desen",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Güler",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Perşembe",
+        "time": "09:30/12:59",
+        "room": "227B"
+      },
+      {
+        "building": "MMB",
+        "day": "Perşembe",
+        "time": "14:00/17:29",
+        "room": "227B"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30368",
+    "course_code": "SNT 103",
+    "course_title": "Desen",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Güler",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Cuma",
+        "time": "09:30/12:59",
+        "room": "227B"
+      },
+      {
+        "building": "MMB",
+        "day": "Cuma",
+        "time": "14:00/17:29",
+        "room": "227B"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30369",
+    "course_code": "SNT 103",
+    "course_title": "Desen",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ceylan Pınar Genç",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "227B"
+      },
+      {
+        "building": "MMB",
+        "day": "Çarşamba",
+        "time": "09:00/12:29",
+        "room": "227B"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30370",
+    "course_code": "SNT 103",
+    "course_title": "Desen",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ceylan Pınar Genç",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Cuma",
+        "time": "09:30/12:59",
+        "room": "CATI4"
+      },
+      {
+        "building": "MMB",
+        "day": "Cuma",
+        "time": "14:00/17:29",
+        "room": "CATI4"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30371",
+    "course_code": "SNT 104",
+    "course_title": "Mitoloji ve Sanat",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yasemin Dora",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "09:00/12:29",
+        "room": "B35"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "B35"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30372",
+    "course_code": "SNT 105E",
+    "course_title": "Film Art",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kağan Demirdöven",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "09:00/12:59",
+        "room": "A201"
+      },
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "14:00/16:59",
+        "room": "A201"
+      }
+    ],
+    "capacity": "40",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZE_LS, DENE_LS, ECNE_LS, EEE_LS, EFN_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZE_LS, GEME_LS, GEMK_LS, GEOE_LS, GID_LS, GIDE_LS, GMIE_LS, HTAE_LS, IAD_LS, IEBE_LS, IML_LS, IMLE_LS, IND_LS, INSE_LS, ISL_LS, ISLE_LS, JEFE_LS, JEOE_LS, KIME_LS, KMM_LS, KMME_LS, KOME_LS, MAD_LS, MADE_LS, MAKE_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MIME_LS, MMD_LS, MSS_LS, MTM_LS, PEME_LS, PETE_LS, SBPE_LS, TEKE_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30373",
+    "course_code": "SNT 106",
+    "course_title": "Geleneks. Türk El Sanatları",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ayşe Yivlik Neftçi",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Salı",
+        "time": "09:00/12:29",
+        "room": "227"
+      },
+      {
+        "building": "MMB",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "227"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30374",
+    "course_code": "SNT 107",
+    "course_title": "İlkçağ Anadolu Uygarlıkları",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ayşe Yivlik Neftçi",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Pazartesi",
+        "time": "09:00/12:29",
+        "room": "227"
+      },
+      {
+        "building": "MMB",
+        "day": "Pazartesi",
+        "time": "13:30/16:59",
+        "room": "227"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30375",
+    "course_code": "SNT 112",
+    "course_title": "Tiyatro",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yeliz Şatıroğlu",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/12:29",
+        "room": "B36"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "B36"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30376",
+    "course_code": "SNT 112",
+    "course_title": "Tiyatro",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yeliz Şatıroğlu",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "09:00/12:29",
+        "room": "B36"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "B36"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30377",
+    "course_code": "SNT 113",
+    "course_title": "Sanat ve Yorum",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ferhan Gözgü",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Pazartesi",
+        "time": "09:00/12:29",
+        "room": "230"
+      },
+      {
+        "building": "MMB",
+        "day": "Pazartesi",
+        "time": "13:30/16:59",
+        "room": "230"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30378",
+    "course_code": "SNT 113",
+    "course_title": "Sanat ve Yorum",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ferhan Gözgü",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Salı",
+        "time": "09:00/12:29",
+        "room": "230"
+      },
+      {
+        "building": "MMB",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "230"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30379",
+    "course_code": "SNT 114E",
+    "course_title": "Contemporary Art",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Şafak Tuba Çatalbaş Miharbi",
+    "schedules": [
+      {
+        "building": "MMB",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "3501"
+      },
+      {
+        "building": "MMB",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "3501"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZE_LS, DENE_LS, ECNE_LS, EEE_LS, EFN_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZE_LS, GEME_LS, GEMK_LS, GEOE_LS, GID_LS, GIDE_LS, HTAE_LS, IAD_LS, IEBE_LS, IML_LS, IMLE_LS, IND_LS, INSE_LS, ISL_LS, ISLE_LS, JEFE_LS, JEOE_LS, KIME_LS, KMM_LS, KMME_LS, KOME_LS, MAD_LS, MADE_LS, MAKE_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MIME_LS, MMD_LS, MSS_LS, MTM_LS, PEME_LS, PETE_LS, SBPE_LS, TEKE_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30380",
+    "course_code": "SNT 115",
+    "course_title": "Modernite ve Görsel Kültür",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yasemin Dora",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/12:29",
+        "room": "B35"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "B35"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30381",
+    "course_code": "SNT 211",
+    "course_title": "İstanbul:Tarih,Sanat ve Toplum",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Çiğdem Özkan Aygün",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Cuma",
+        "time": "09:00/12:59",
+        "room": "B37"
+      },
+      {
+        "building": "MED",
+        "day": "Cuma",
+        "time": "14:00/16:59",
+        "room": "B37"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELE_LS, ELK_LS, END_LS, EUT_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, ICM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, KON_LS, MAD_LS, MAK_LS, MAT_LS, MET_LS, MIM_LS, MTO_LS, PEM_LS, PET_LS, SAO_OL, SBP_LS, TEK_LS, TEL_LS, UCK_LS, UZB_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30382",
+    "course_code": "SNT 211E",
+    "course_title": "Istanbul:Hist.,Art and Society",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Çiğdem Özkan Aygün",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "09:00/12:29",
+        "room": "B37"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "B37"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZE_LS, DENE_LS, ECNE_LS, EEE_LS, EFN_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZE_LS, GEME_LS, GEMK_LS, GEOE_LS, GID_LS, GIDE_LS, GMIE_LS, HTAE_LS, IAD_LS, IEBE_LS, IML_LS, IMLE_LS, IND_LS, INSE_LS, ISL_LS, ISLE_LS, JEFE_LS, JEOE_LS, KIME_LS, KMM_LS, KMME_LS, KOME_LS, MAD_LS, MADE_LS, MAKE_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MIME_LS, MMD_LS, MSS_LS, MTM_LS, PEME_LS, PETE_LS, SBPE_LS, TEKE_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30383",
+    "course_code": "SNT 211E",
+    "course_title": "Istanbul:Hist.,Art and Society",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Pınar Erkan Bursa",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Cuma",
+        "time": "09:00/12:59",
+        "room": "D452"
+      },
+      {
+        "building": "MKB",
+        "day": "Cuma",
+        "time": "14:00/16:59",
+        "room": "D452"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "ARC_LS, BIOE_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZE_LS, DENE_LS, ECNE_LS, EEE_LS, EFN_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, ENDE_LS, ENTE_LS, EUTE_LS, FIZE_LS, GEME_LS, GEMK_LS, GEOE_LS, GID_LS, GIDE_LS, GMIE_LS, HTAE_LS, IAD_LS, IEBE_LS, IML_LS, IMLE_LS, IND_LS, INSE_LS, ISL_LS, ISLE_LS, JEFE_LS, JEOE_LS, KIME_LS, KMM_LS, KMME_LS, KOME_LS, MAD_LS, MADE_LS, MAKE_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MIME_LS, MMD_LS, MSS_LS, MTM_LS, PEME_LS, PETE_LS, SBPE_LS, TEKE_LS, UZBE_LS, VBAE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

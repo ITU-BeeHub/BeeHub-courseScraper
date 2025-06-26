@@ -1,0 +1,29 @@
+[
+  {
+    "crn": "30132",
+    "course_code": "BIO 301E",
+    "course_title": "Fundamentals of Biology",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ece Polat",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Salı",
+        "time": "09:30/13:29",
+        "room": "D201"
+      },
+      {
+        "building": "FEB",
+        "day": "Cuma",
+        "time": "10:00/12:59",
+        "room": "D101"
+      }
+    ],
+    "capacity": "55",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

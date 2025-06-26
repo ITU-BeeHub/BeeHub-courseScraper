@@ -1,0 +1,248 @@
+[
+  {
+    "crn": "30125",
+    "course_code": "JEO 112",
+    "course_title": "Genel Jeoloji",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kürşad Kadir Eriş",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "40",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAD_LS, MAD_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30127",
+    "course_code": "JEO 204E",
+    "course_title": "Petrog. of Magmatic Rocks",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Şafak Altunkaynak ,Alp Ünal",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "15:00/16:59",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Cuma",
+        "time": "09:00/11:59",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Cuma",
+        "time": "14:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEO_LS, JEO_YD, JEOE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=JEO&dersNo=204E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30306",
+    "course_code": "JEO 222",
+    "course_title": "Jeomekanik",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yılmaz Mahmutoğlu",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "08:30/10:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "12",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEF_LS, JEO_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=JEO&dersNo=222",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30126",
+    "course_code": "JEO 348",
+    "course_title": "Sedimenter Kayaç Petrografisi",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Kürşad Kadir Eriş",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEO_LS, JEO_YD",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=JEO&dersNo=348",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30124",
+    "course_code": "JEO 355E",
+    "course_title": "Sedimentology",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Emin Çiftçi",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "13:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEO_LS, JEO_YD, JEOE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30327",
+    "course_code": "JEO 406E",
+    "course_title": "Fossil Fuels Geology",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sedat İnan ,Zeynep Döner",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Pazartesi",
+        "time": "10:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Pazartesi",
+        "time": "13:30/15:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "10:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "13:30/14:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEO_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=JEO&dersNo=406E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30394",
+    "course_code": "JEO 411E",
+    "course_title": "Tectonics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Şule Gürboğa",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "25",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEO_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=JEO&dersNo=411E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30392",
+    "course_code": "JEO 473",
+    "course_title": "Mühendislik Jeolojisi",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yılmaz Mahmutoğlu ,Ömer Ündül ,Enes Zengin",
+    "schedules": [
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MDB",
+        "day": "Perşembe",
+        "time": "13:30/15:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "10",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "JEO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

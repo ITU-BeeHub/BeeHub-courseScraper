@@ -1,0 +1,62 @@
+[
+  {
+    "crn": "30293",
+    "course_code": "MUZ 322",
+    "course_title": "Alan Araştırma Metodları",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Eyüp Uzunkaya",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "15:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Perşembe",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Cuma",
+        "time": "09:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CAB_LS, CEB_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30294",
+    "course_code": "MUZ 357",
+    "course_title": "İleri Osmanlıca I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Serhan Dilhan Yavuz ,Gözde Çolakoğlu Sarı",
+    "schedules": [
+      {
+        "building": "TMB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "TMB",
+        "day": "Çarşamba",
+        "time": "10:30/12:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "15",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MUZ_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

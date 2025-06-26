@@ -1,0 +1,29 @@
+[
+  {
+    "crn": "30086",
+    "course_code": "MYZ 312",
+    "course_title": "Meteorolojide Makine Öğrenmesi",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ahmet Öztopal",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "D100"
+      },
+      {
+        "building": "INB",
+        "day": "Cuma",
+        "time": "14:30/17:29",
+        "room": "D100"
+      }
+    ],
+    "capacity": "20",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "IBM_LS, MTO_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MYZ&dersNo=312",
+    "credit_class_resc": "-"
+  }
+]

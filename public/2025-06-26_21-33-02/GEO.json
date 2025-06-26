@@ -1,0 +1,347 @@
+[
+  {
+    "crn": "30354",
+    "course_code": "GEO 103E",
+    "course_title": "Fundamentals of Surveying",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mert Bezcioğlu",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "08:30/13:29",
+        "room": "B302"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/17:59",
+        "room": "B302"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30384",
+    "course_code": "GEO 109E",
+    "course_title": "Analy. Geom. and Vect. Algeb.",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mert Bezcioğlu",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "14:30/17:29",
+        "room": "B304"
+      },
+      {
+        "building": "INB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "B304"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30330",
+    "course_code": "GEO 203",
+    "course_title": "Koord. Sist. Ve Jeodezi I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hayri Hakan Denli",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "08:30/13:29",
+        "room": "B305"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/17:59",
+        "room": "B305"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, HTA_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30324",
+    "course_code": "GEO 203E",
+    "course_title": "Coordinate Sys. and Geodesy I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Serdar Erol",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "08:30/13:29",
+        "room": "B308"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/17:59",
+        "room": "B308"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30179",
+    "course_code": "GEO 212E",
+    "course_title": "Engineering Surveying",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet İşiler",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "13:30/16:29",
+        "room": "D201"
+      },
+      {
+        "building": "INB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "D201"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GEO&dersNo=212E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30334",
+    "course_code": "GEO 216E",
+    "course_title": "Computer Aided Map Design",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Ufuk Özerman",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "08:30/13:29",
+        "room": "D103"
+      },
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "08:30/12:59",
+        "room": "D103"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30343",
+    "course_code": "GEO 220E",
+    "course_title": "Mathematics for Geomatics Eng.",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Ufuk Özerman",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "13:30/15:59",
+        "room": "D202"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "13:30/15:29",
+        "room": "D202"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "08:30/10:59",
+        "room": "D202"
+      }
+    ],
+    "capacity": "35",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GEO&dersNo=220E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30181",
+    "course_code": "GEO 225E",
+    "course_title": "Prob.and Stat. for Geom. Eng.",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet İşiler",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "08:30/13:29",
+        "room": "D201"
+      },
+      {
+        "building": "INB",
+        "day": "Cuma",
+        "time": "14:00/15:59",
+        "room": "D201"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30177",
+    "course_code": "GEO 308",
+    "course_title": "Taşınmaz Değerlemesi",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Reha Metin Alkan",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "11:00/13:29",
+        "room": "B204"
+      },
+      {
+        "building": "INB",
+        "day": "Çarşamba",
+        "time": "15:30/17:59",
+        "room": "B204"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, HTA_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30331",
+    "course_code": "GEO 314",
+    "course_title": "Jeodezi-II ve Projeksiyonlar",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hayri Hakan Denli",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "16:00/17:59",
+        "room": "B305"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "08:30/13:29",
+        "room": "B305"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, HTA_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GEO&dersNo=314",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30323",
+    "course_code": "GEO 314E",
+    "course_title": "Geodesy II and Projections",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Serdar Erol",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Pazartesi",
+        "time": "16:00/17:59",
+        "room": "B308"
+      },
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "08:30/13:29",
+        "room": "B308"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GEO&dersNo=314E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30182",
+    "course_code": "GEO 322E",
+    "course_title": "Land Management",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet İşiler",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Salı",
+        "time": "13:30/18:29",
+        "room": "D201"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GEO&dersNo=322E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30178",
+    "course_code": "GEO 476",
+    "course_title": "Geo. Müh. Proje Planlama Yön.",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Reha Metin Alkan",
+    "schedules": [
+      {
+        "building": "INB",
+        "day": "Perşembe",
+        "time": "08:30/13:29",
+        "room": "B204"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEO_LS, HTA_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

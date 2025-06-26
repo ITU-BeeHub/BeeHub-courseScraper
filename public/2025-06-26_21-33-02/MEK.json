@@ -1,0 +1,56 @@
+[
+  {
+    "crn": "30400",
+    "course_code": "MEK 205",
+    "course_title": "Mühendislik Mekaniği",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hacı Abdullah Taşdemir",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "D355"
+      },
+      {
+        "building": "MKB",
+        "day": "Çarşamba",
+        "time": "13:30/16:29",
+        "room": "D355"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CHZ_LS, END_LS, GID_LS, GMI_LS, IML_LS, ISL_LS, JEF_LS, JEO_LS, MAD_LS, PET_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MEK&dersNo=205",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30399",
+    "course_code": "MEK 205E",
+    "course_title": "Engineering Mechanics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hacı Abdullah Taşdemir",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "09:30/12:29",
+        "room": "D355"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "D355"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CHZ_LS, CHZE_LS, END_LS, ENDE_LS, GID_LS, GMI_LS, GMIE_LS, IML_LS, IND_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, MEN_LS, PET_LS, PETE_LS, TEKE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MEK&dersNo=205E",
+    "credit_class_resc": "-"
+  }
+]

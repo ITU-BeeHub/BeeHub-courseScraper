@@ -1,0 +1,338 @@
+[
+  {
+    "crn": "30395",
+    "course_code": "MAK 205",
+    "course_title": "Mukavemet I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Adil Yücel",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "10:00/12:59",
+        "room": "D318"
+      },
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "D318"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=205",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30397",
+    "course_code": "MAK 206",
+    "course_title": "Mukavemet II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Adil Yücel",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "10:00/12:59",
+        "room": "D318"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "D318"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=206",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30405",
+    "course_code": "MAK 215",
+    "course_title": "Termodinamik I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ersin Sayar",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Çarşamba",
+        "time": "09:30/12:29",
+        "room": "A501"
+      },
+      {
+        "building": "MKB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "A501"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=215",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30396",
+    "course_code": "MAK 219",
+    "course_title": "Mukavemet I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Adil Yücel",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "10:00/12:59",
+        "room": "--"
+      },
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "13:30/17:29",
+        "room": "--"
+      },
+      {
+        "building": "MKB",
+        "day": "Çarşamba",
+        "time": "10:00/12:29",
+        "room": "D318"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=219",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30398",
+    "course_code": "MAK 220",
+    "course_title": "Mukavemet II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Adil Yücel",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Çarşamba",
+        "time": "13:30/15:59",
+        "room": "D318"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "10:00/12:59",
+        "room": "--"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=220",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30401",
+    "course_code": "MAK 228",
+    "course_title": "Akışkanlar Mekaniği I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hasan Güneş ,Sertaç Çadırcı",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "09:30/12:29",
+        "room": "A201"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "09:30/13:29",
+        "room": "A201"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=228",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30403",
+    "course_code": "MAK 229",
+    "course_title": "Akışkanlar Mekaniği II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hasan Güneş ,Sertaç Çadırcı",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "09:30/13:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=229",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30406",
+    "course_code": "MAK 231",
+    "course_title": "Termodinamik I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ersin Sayar",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Çarşamba",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MKB",
+        "day": "Çarşamba",
+        "time": "13:30/17:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=231",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30402",
+    "course_code": "MAK 234",
+    "course_title": "Akışkanlar Mekaniği I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hasan Güneş ,Sertaç Çadırcı",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "A501"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "A501"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=234",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30408",
+    "course_code": "MAK 303",
+    "course_title": "Isı Geçişi",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ersin Sayar",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MKB",
+        "day": "Cuma",
+        "time": "14:30/17:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MAK_YD, MSS_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30407",
+    "course_code": "MAK 313",
+    "course_title": "Isı Geçişi",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ersin Sayar",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "A501"
+      },
+      {
+        "building": "MKB",
+        "day": "Cuma",
+        "time": "14:30/17:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MAK_YD, MSS_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=313",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30404",
+    "course_code": "MAK 335",
+    "course_title": "Akışkanlar Mekaniği II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hasan Güneş ,Sertaç Çadırcı",
+    "schedules": [
+      {
+        "building": "MKB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "MKB",
+        "day": "Perşembe",
+        "time": "13:30/17:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "70",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "MAK_LS, MKN_YD_MK",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=MAK&dersNo=335",
+    "credit_class_resc": "-"
+  }
+]

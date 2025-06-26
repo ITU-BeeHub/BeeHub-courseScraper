@@ -1,0 +1,164 @@
+[
+  {
+    "crn": "30280",
+    "course_code": "DUI 103E",
+    "course_title": "Seamanship",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Orhan Gönel",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Pazartesi",
+        "time": "13:30/15:59",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "12:30/16:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "08:30/11:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS, MTM_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30325",
+    "course_code": "DUI 251E",
+    "course_title": "Meteorology",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ayşe Nak",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "12:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS, MTM_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30286",
+    "course_code": "DUI 305E",
+    "course_title": "Ship Hndl.and Manouvering",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Cenk Ay",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Salı",
+        "time": "12:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS, MTM_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30285",
+    "course_code": "DUI 311E",
+    "course_title": "Celestial Navigation",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Orhan Gönel",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "08:30/11:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Çarşamba",
+        "time": "12:30/16:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS, MTM_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30283",
+    "course_code": "DUI 407E",
+    "course_title": "Cargo Handl and Stowage",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Cenk Ay",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Cuma",
+        "time": "08:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "DZB",
+        "day": "Cuma",
+        "time": "14:00/16:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS, MTM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=DUI&dersNo=407E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30281",
+    "course_code": "DUI 472",
+    "course_title": "Oşinografi",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ayşe Nak",
+    "schedules": [
+      {
+        "building": "DZB",
+        "day": "Perşembe",
+        "time": "08:30/13:29",
+        "room": "--"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "DUI_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "crn": "30356",
+    "course_code": "GEM 325",
+    "course_title": "Gemi Yapı Elemanları",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "İsmail Bayer",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "14:00/16:59",
+        "room": "--"
+      },
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "09:30/12:29",
+        "room": "--"
+      },
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "--"
+      }
+    ],
+    "capacity": "40",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEM_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=GEM&dersNo=325",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30180",
+    "course_code": "GEM 445",
+    "course_title": "Gemi Boru Donanımları",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Osman Azmi Özsoysal",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "10:30/13:29",
+        "room": "1D5"
+      },
+      {
+        "building": "MEDC",
+        "day": "Çarşamba",
+        "time": "11:30/13:29",
+        "room": "1D5"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "GEM_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  }
+]

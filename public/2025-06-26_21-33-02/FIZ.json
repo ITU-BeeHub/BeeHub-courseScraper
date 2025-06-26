@@ -1,0 +1,461 @@
+[
+  {
+    "crn": "30302",
+    "course_code": "FIZ 101",
+    "course_title": "Fizik I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sevtap Yıldız Özbek",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A33"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A33"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, DUI_LS, EHB_LS, ELE_LS, ELH_LS, ELK_LS, END_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, INS_LS, ISL_LS, JEO_LS, KMM_LS, KMM_YD, KOM_LS, MAT_LS, MET_LS, MTO_LS, ROS_LS, TEL_LS, UCK_LS, UCK_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30303",
+    "course_code": "FIZ 101",
+    "course_title": "Fizik I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Sevtap Yıldız Özbek",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "08:30/11:59",
+        "room": "A33"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "A33"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, DUI_LS, EHB_LS, ELE_LS, ELH_LS, ELK_LS, END_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, INS_LS, ISL_LS, JEO_LS, KMM_LS, KMM_YD, KOM_LS, MAT_LS, MET_LS, MTO_LS, ROS_LS, TEL_LS, UCK_LS, UCK_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30304",
+    "course_code": "FIZ 101",
+    "course_title": "Fizik I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Haluk Özbek",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A34"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A34"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, DUI_LS, EHB_LS, ELE_LS, ELH_LS, ELK_LS, END_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, INS_LS, ISL_LS, JEO_LS, KMM_LS, KMM_YD, KOM_LS, MAT_LS, MET_LS, MTO_LS, ROS_LS, TEL_LS, UCK_LS, UCK_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30305",
+    "course_code": "FIZ 101",
+    "course_title": "Fizik I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Haluk Özbek",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "08:30/11:59",
+        "room": "A34"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "A34"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, DUI_LS, EHB_LS, ELE_LS, ELH_LS, ELK_LS, END_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, INS_LS, ISL_LS, JEO_LS, KMM_LS, KMM_YD, KOM_LS, MAT_LS, MET_LS, MTO_LS, ROS_LS, TEL_LS, UCK_LS, UCK_YD",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30146",
+    "course_code": "FIZ 101E",
+    "course_title": "Physics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Abdurrahman Savaş Arapoğlu",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A11"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A11"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30147",
+    "course_code": "FIZ 101E",
+    "course_title": "Physics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Abdurrahman Savaş Arapoğlu",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "08:30/11:59",
+        "room": "A11"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "A11"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30149",
+    "course_code": "FIZ 101E",
+    "course_title": "Physics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Cem Güçlü",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "08:30/11:59",
+        "room": "A11"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "A11"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30150",
+    "course_code": "FIZ 101E",
+    "course_title": "Physics I",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Cem Güçlü",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Cuma",
+        "time": "08:30/11:59",
+        "room": "A11"
+      },
+      {
+        "building": "MED",
+        "day": "Cuma",
+        "time": "14:00/17:29",
+        "room": "A11"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30151",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Nurcan Doğan Bingölbali",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A12"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A12"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30152",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Nurcan Doğan Bingölbali",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "08:30/11:59",
+        "room": "A12"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "A12"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30153",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Oğuzhan Gürlü",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A13"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A13"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30154",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Oğuzhan Gürlü",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "08:30/11:59",
+        "room": "A13"
+      },
+      {
+        "building": "MED",
+        "day": "Perşembe",
+        "time": "13:30/16:59",
+        "room": "A13"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30156",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ali Gelir",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A14"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A14"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30158",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Ali Gelir",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "08:30/11:59",
+        "room": "A14"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "A14"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30160",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yakup Hundur",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "08:30/11:59",
+        "room": "A15"
+      },
+      {
+        "building": "MED",
+        "day": "Salı",
+        "time": "13:30/16:59",
+        "room": "A15"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30161",
+    "course_code": "FIZ 102E",
+    "course_title": "Physics II",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Yakup Hundur",
+    "schedules": [
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "08:30/11:59",
+        "room": "A15"
+      },
+      {
+        "building": "MED",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "A15"
+      }
+    ],
+    "capacity": "100",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_YD, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMM_YD, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAK_YD, MAKE_LS, MAT_LS, MATE_LS, MEN_LS, MET_LS, METE_LS, MTM_LS, MTO_LS, MTOE_LS, NAE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS, YZVE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30163",
+    "course_code": "FIZ 201E",
+    "course_title": "Modern Physics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mehmet Murat Sunar",
+    "schedules": [
+      {
+        "building": "FEB",
+        "day": "Pazartesi",
+        "time": "13:30/16:59",
+        "room": "D304"
+      },
+      {
+        "building": "FEB",
+        "day": "Çarşamba",
+        "time": "13:30/16:59",
+        "room": "D304"
+      }
+    ],
+    "capacity": "60",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_YD, GEM_LS, GEME_LS, GEMK_LS, GMI_LS, GMIE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, MTO_LS, MTOE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, TEL_LS, UCK_LS, UZB_LS, UZB_YD, UZBE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=FIZ&dersNo=201E",
+    "credit_class_resc": "-"
+  }
+]

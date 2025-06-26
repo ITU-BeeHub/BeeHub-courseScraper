@@ -1,0 +1,62 @@
+[
+  {
+    "crn": "30270",
+    "course_code": "EHB 222E",
+    "course_title": "Introduction to Electronics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Muhammet Tahir Güneşer",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Salı",
+        "time": "08:30/12:29",
+        "room": "5102"
+      },
+      {
+        "building": "EEB",
+        "day": "Salı",
+        "time": "13:30/16:29",
+        "room": "5104"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "BLG_LS, BLGE_LS, CEN_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",
+    "prerequisites": "-",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30269",
+    "course_code": "EHB 335E",
+    "course_title": "Analog Electronic Circuits",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Mustafa Berke Yelten",
+    "schedules": [
+      {
+        "building": "EEB",
+        "day": "Salı",
+        "time": "09:00/10:59",
+        "room": "5104"
+      },
+      {
+        "building": "EEB",
+        "day": "Çarşamba",
+        "time": "08:30/10:59",
+        "room": "5104"
+      },
+      {
+        "building": "EEB",
+        "day": "Perşembe",
+        "time": "08:30/10:59",
+        "room": "5104"
+      }
+    ],
+    "capacity": "60",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "EHB_LS, EHBE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=EHB&dersNo=335E",
+    "credit_class_resc": "-"
+  }
+]

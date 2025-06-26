@@ -1,0 +1,83 @@
+[
+  {
+    "crn": "30081",
+    "course_code": "UZB 310E",
+    "course_title": "Compressible Aerodynamics",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Hayri Acar",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Salı",
+        "time": "14:00/16:59",
+        "room": "1D10"
+      },
+      {
+        "building": "MEDC",
+        "day": "Perşembe",
+        "time": "09:00/12:59",
+        "room": "1D10"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS, UCK_YD, UZB_LS, UZBE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=UZB&dersNo=310E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30319",
+    "course_code": "UZB 314E",
+    "course_title": "Heat Transfer",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Cemil Kurtcebe",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Cuma",
+        "time": "09:30/12:29",
+        "room": "ZD1"
+      },
+      {
+        "building": "MEDC",
+        "day": "Cuma",
+        "time": "14:30/16:29",
+        "room": "ZD1"
+      }
+    ],
+    "capacity": "50",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS, UZB_LS, UZBE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=UZB&dersNo=314E",
+    "credit_class_resc": "-"
+  },
+  {
+    "crn": "30271",
+    "course_code": "UZB 318E",
+    "course_title": "Finite Element Method",
+    "teaching_method": "Fiziksel (Yüz yüze)",
+    "instructor": "Vedat Ziya Doğan",
+    "schedules": [
+      {
+        "building": "MEDC",
+        "day": "Pazartesi",
+        "time": "09:30/12:29",
+        "room": "ZD1"
+      },
+      {
+        "building": "MEDC",
+        "day": "Pazartesi",
+        "time": "13:30/17:29",
+        "room": "ZD1"
+      }
+    ],
+    "capacity": "30",
+    "enrolled": "0",
+    "reservation": "-",
+    "major_restriction": "UCK_LS, UZB_LS, UZBE_LS",
+    "prerequisites": "https://obs.itu.edu.trhttps://obs.itu.edu.tr/public/DersBilgi?bransKodu=UZB&dersNo=318E",
+    "credit_class_resc": "-"
+  }
+]
