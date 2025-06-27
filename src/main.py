@@ -2,7 +2,6 @@ import os
 import requests
 import datetime
 import json
-from copy import deepcopy
 
 from github import pushChanges
 from bs4 import BeautifulSoup
@@ -16,12 +15,31 @@ HEADERS = {
     "Accept": "application/json"
 }
 
+# Used for deriving fields in the new JSON format
+DAY_MAP_TR_EN = {
+    'Pazartesi': 'Monday',
+    'Salı': 'Tuesday',
+    'Çarşamba': 'Wednesday',
+    'Perşembe': 'Thursday',
+    'Cuma': 'Friday',
+    'Cumartesi': 'Saturday',
+    'Pazar': 'Sunday'
+}
+
+PROGRAM_SEVIYE_MAP = {
+    'LS': 'lisans',
+    'YL': 'yuksek-lisans',
+    'DR': 'doktora'
+}
+
+
 date = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+guncellenme_saati = datetime.datetime.now().strftime("%d.%m.%Y %H:%M:%S")
 
 repo_root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def parse_courses_html(html_content):
+def parse_courses_html(html_content, ders_brans_kodu_id, program_seviye):
     if not html_content:
         return []
     
@@ -44,62 +62,81 @@ def parse_courses_html(html_content):
         def get_text(element):
             return element.get_text(strip=True)
 
+        def get_parts(element):
+            return [s.strip() for s in element.get_text(separator='\n').strip().split('\n') if s.strip()]
+
+        # --- Scrape data from table cells ---
         crn = get_text(cols[0])
         course_code_anchor = cols[1].find('a')
         course_code = get_text(course_code_anchor) if course_code_anchor else get_text(cols[1])
         course_title = get_text(cols[2])
         teaching_method = get_text(cols[3])
         instructor = get_text(cols[4])
-        capacity = get_text(cols[9])
-        enrolled = get_text(cols[10])
+        
+        # Combine multi-line schedule info with spaces to match desired format
+        binaKodu = ' '.join(get_parts(cols[5]))
+        gunAdiTR = ' '.join(get_parts(cols[6]))
+        baslangicSaati = ' '.join(get_parts(cols[7]))
+        mekanAdi = ' '.join(get_parts(cols[8]))
+        
+        capacity_str = get_text(cols[9])
+        enrolled_str = get_text(cols[10])
         reservation = get_text(cols[11])
         
         major_restriction_anchor = cols[12].find('a')
         major_restriction = get_text(major_restriction_anchor) if major_restriction_anchor else get_text(cols[12])
 
         prereq_anchor = cols[13].find('a')
-        prerequisites = f"https://obs.itu.edu.tr{prereq_anchor['href']}" if prereq_anchor and prereq_anchor.has_attr('href') else get_text(cols[13])
+        onSart = "Var" if prereq_anchor else ("Yok" if get_text(cols[13]) == "-" else get_text(cols[13]))
 
         credit_class_resc = get_text(cols[14])
 
-        schedules = []
+        # --- Transform and derive data for the new format ---
+        try:
+            kontenjan = int(capacity_str)
+        except (ValueError, TypeError):
+            kontenjan = 0
         
-        def get_parts(element):
-            return [s.strip() for s in element.get_text(separator='\n').strip().split('\n') if s.strip()]
+        try:
+            ogrenciSayisi = int(enrolled_str)
+        except (ValueError, TypeError):
+            ogrenciSayisi = 0
 
-        buildings = get_parts(cols[5])
-        days = get_parts(cols[6])
-        times = get_parts(cols[7])
-        rooms = get_parts(cols[8])
-
-        max_len = max(len(buildings), len(days), len(times), len(rooms))
+        dilKodu = "en-us" if course_code.endswith('E') else "tr-tr"
+        programSeviyeTipi = PROGRAM_SEVIYE_MAP.get(program_seviye, program_seviye)
         
-        buildings.extend([''] * (max_len - len(buildings)))
-        days.extend([''] * (max_len - len(days)))
-        times.extend([''] * (max_len - len(times)))
-        rooms.extend([''] * (max_len - len(rooms)))
+        gunAdiEN_parts = [DAY_MAP_TR_EN.get(day, '') for day in gunAdiTR.split()]
+        gunAdiEN = ' '.join(filter(None, gunAdiEN_parts))
 
-        for i in range(max_len):
-            schedules.append({
-                'building': buildings[i],
-                'day': days[i],
-                'time': times[i],
-                'room': rooms[i]
-            })
-
+        # --- Assemble the new course data object ---
         course_data = {
+            # Fields that cannot be scraped from HTML are set to None or a default
+            'dersTanimiId': None,
+            'akademikDonemKodu': None, 
+            'programSeviyeTipiId': None,
+            'webdeGoster': True,
+
+            # Mapped and derived fields
             'crn': crn,
-            'course_code': course_code,
-            'course_title': course_title,
-            'teaching_method': teaching_method,
-            'instructor': instructor,
-            'schedules': schedules,
-            'capacity': capacity,
-            'enrolled': enrolled,
-            'reservation': reservation,
-            'major_restriction': major_restriction,
-            'prerequisites': prerequisites,
-            'credit_class_resc': credit_class_resc
+            'dersKodu': course_code,
+            'dersBransKoduId': ders_brans_kodu_id,
+            'dilKodu': dilKodu,
+            'programSeviyeTipi': programSeviyeTipi,
+            'dersAdi': course_title,
+            'ogretimYontemi': teaching_method,
+            'adSoyad': instructor,
+            'mekanAdi': mekanAdi,
+            'gunAdiTR': gunAdiTR,
+            'gunAdiEN': gunAdiEN,
+            'baslangicSaati': baslangicSaati,
+            'bitisSaati': "", # Always empty in the desired format
+            'binaKodu': binaKodu,
+            'kontenjan': kontenjan,
+            'ogrenciSayisi': ogrenciSayisi,
+            'rezervasyon': reservation,
+            'sinifProgram': major_restriction,
+            'onSart': onSart,
+            'sinifOnsart': credit_class_resc
         }
         courses_list.append(course_data)
     
@@ -139,21 +176,28 @@ if __name__ == "__main__":
     course_codes = get_course_codes(program_seviye)
 
     # Create a folder with the name of today's date and hour inside public folder
-    os.mkdir(os.path.join(repo_root_dir, "public", date))
+    new_dir_path = os.path.join(repo_root_dir, "public", date)
+    os.makedirs(new_dir_path, exist_ok=True)
 
     # Step 2: For each course code, get courses and save to file
     for code in course_codes:
         ders_brans_kodu_id = code['bransKoduId']
-        course_code = code['dersBransKodu']
+        course_code_prefix = code['dersBransKodu'] # e.g. "AKM"
         html_content = get_courses(program_seviye, ders_brans_kodu_id)
         
         if html_content:
-            courses = parse_courses_html(html_content)
-            if courses:
+            parsed_courses = parse_courses_html(html_content, ders_brans_kodu_id, program_seviye)
+            if parsed_courses:
+                # Create the final dictionary structure for this file
+                final_data = {
+                    "dersProgramList": parsed_courses,
+                    "guncellenmeSaati": guncellenme_saati
+                }
+                
                 # Write the course page to a file
-                file_path = os.path.join(repo_root_dir, "public", date, f"{course_code}.json")
+                file_path = os.path.join(new_dir_path, f"{course_code_prefix}.json")
                 with open(file_path, "w", encoding="utf-8") as file:
-                    json.dump(courses, file, ensure_ascii=False, indent=2)
+                    json.dump(final_data, file, ensure_ascii=False, indent=2)
 
     # Update most_recent.txt file
     with open(os.path.join(repo_root_dir, "public", "most_recent.txt"), "w", encoding="utf-8") as file:
