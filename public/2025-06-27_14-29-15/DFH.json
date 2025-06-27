@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30282",
+      "dersKodu": "DFH 278E",
+      "dersBransKoduId": 163,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Maritime Economics",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Sinan Çakır",
+      "mekanAdi": "--",
+      "gunAdiTR": "Pazartesi",
+      "gunAdiEN": "Monday",
+      "baslangicSaati": "08:30/13:29",
+      "bitisSaati": "",
+      "binaKodu": "DZB",
+      "kontenjan": 30,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "DUI_LS, MEN_LS, MTM_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "27.06.2025 14:29:15"
+}

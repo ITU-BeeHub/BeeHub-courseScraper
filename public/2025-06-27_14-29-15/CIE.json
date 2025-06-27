@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30409",
+      "dersKodu": "CIE 439",
+      "dersBransKoduId": 142,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Transportation Systems",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Kemal Selçuk Öğüt",
+      "mekanAdi": "ULAŞTIRM_A ULAŞTIRM_A ULAŞTIRM_A",
+      "gunAdiTR": "Pazartesi Salı Perşembe",
+      "gunAdiEN": "Monday Tuesday Thursday",
+      "baslangicSaati": "12:00/14:29 12:00/14:29 12:00/13:59",
+      "bitisSaati": "",
+      "binaKodu": "INB INB INB",
+      "kontenjan": 10,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "SIN_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "27.06.2025 14:29:15"
+}

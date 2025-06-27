@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30132",
+      "dersKodu": "BIO 301E",
+      "dersBransKoduId": 30,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Fundamentals of Biology",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Ece Polat",
+      "mekanAdi": "D201 D101",
+      "gunAdiTR": "Salı Cuma",
+      "gunAdiEN": "Tuesday Friday",
+      "baslangicSaati": "09:30/13:29 10:00/12:59",
+      "bitisSaati": "",
+      "binaKodu": "FEB FEB",
+      "kontenjan": 55,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "27.06.2025 14:29:15"
+}

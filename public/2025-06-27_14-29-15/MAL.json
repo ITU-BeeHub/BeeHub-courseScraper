@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30123",
+      "dersKodu": "MAL 201E",
+      "dersBransKoduId": 48,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Materials Science",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Emin Çiftçi",
+      "mekanAdi": "-- --",
+      "gunAdiTR": "Pazartesi Pazartesi",
+      "gunAdiEN": "Monday Monday",
+      "baslangicSaati": "08:30/12:29 13:30/16:29",
+      "bitisSaati": "",
+      "binaKodu": "MDB MDB",
+      "kontenjan": 30,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "CHZ_LS, CHZE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "27.06.2025 14:29:15"
+}

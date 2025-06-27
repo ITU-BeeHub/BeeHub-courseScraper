@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30317",
+      "dersKodu": "DNK 201E",
+      "dersBransKoduId": 44,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Dynamics",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Ünal Aldemir",
+      "mekanAdi": "A202 A202",
+      "gunAdiTR": "Pazartesi Çarşamba",
+      "gunAdiEN": "Monday Wednesday",
+      "baslangicSaati": "08:30/12:29 08:30/11:29",
+      "bitisSaati": "",
+      "binaKodu": "INB INB",
+      "kontenjan": 50,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "NAE/5/0 | Diğer/45/0",
+      "sinifProgram": "GEM_LS, GEME_LS, INS_LS, INSE_LS, NAE_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "27.06.2025 14:29:15"
+}

@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30355",
+      "dersKodu": "MAD 446E",
+      "dersBransKoduId": 16,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Computer Aided Mine Design",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Kürşat Hasözdemir",
+      "mekanAdi": "-- --",
+      "gunAdiTR": "Salı Çarşamba",
+      "gunAdiEN": "Tuesday Wednesday",
+      "baslangicSaati": "13:30/16:29 08:30/12:29",
+      "bitisSaati": "",
+      "binaKodu": "MDB MDB",
+      "kontenjan": 14,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "MAD_LS, MADE_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "27.06.2025 14:29:15"
+}
