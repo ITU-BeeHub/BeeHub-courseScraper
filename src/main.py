@@ -207,5 +207,12 @@ if __name__ == "__main__":
     with open(os.path.join(repo_root_dir, "public", "course_codes.json"), "w", encoding="utf-8") as file:
         json.dump(course_codes, file, ensure_ascii=False)
 
-    pushChanges(repo_root_dir, f"Add course schedules for {date}")
+    resp = input("Press y/Y to push changes to GitHub: ")
+    if resp.lower() == 'y':
+        # Push changes to GitHub
+        print("Pushing changes to GitHub...")
+        pushChanges(repo_root_dir, f"Add course schedules for {date}")
+    else:
+        print("Changes not pushed to GitHub.")
+    print("Done.")
 
