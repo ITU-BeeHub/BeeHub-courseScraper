@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "13512",
+      "dersKodu": "SEC 113E",
+      "dersBransKoduId": 308,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Intr. to Cyber Sec. Eng & Ethics",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Abdül Halim Zaim",
+      "mekanAdi": "--",
+      "gunAdiTR": "Çarşamba",
+      "gunAdiEN": "Wednesday",
+      "baslangicSaati": "13:30/15:29",
+      "bitisSaati": "",
+      "binaKodu": "BBB",
+      "kontenjan": 60,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "SECE_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "13.08.2025 15:54:26"
+}
