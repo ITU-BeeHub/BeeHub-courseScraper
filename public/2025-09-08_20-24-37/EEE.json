@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "14256",
+      "dersKodu": "EEE 101E",
+      "dersBransKoduId": 289,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Intr.Elect.&Elec.Eng.&Eng.Eth.",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Tayfun Akgül",
+      "mekanAdi": "5301",
+      "gunAdiTR": "Çarşamba",
+      "gunAdiEN": "Wednesday",
+      "baslangicSaati": "09:30/11:29",
+      "bitisSaati": "",
+      "binaKodu": "EEB",
+      "kontenjan": 50,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "EEE_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "08.09.2025 20:24:37"
+}
