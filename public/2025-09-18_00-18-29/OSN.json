@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "15114",
+      "dersKodu": "OSN 431E",
+      "dersBransKoduId": 319,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Ocean Biogeochemistry",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Nazlı Olğun Kıyak",
+      "mekanAdi": "--",
+      "gunAdiTR": "Pazartesi",
+      "gunAdiEN": "Monday",
+      "baslangicSaati": "13:30/16:29",
+      "bitisSaati": "",
+      "binaKodu": "MEDC",
+      "kontenjan": 30,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "DEN_LS, OSN_YD",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "18.09.2025 00:18:29"
+}

@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "15358",
+      "dersKodu": "TDW 102",
+      "dersBransKoduId": 261,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Technical Drawing",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Emre Kahramanoğlu",
+      "mekanAdi": "--",
+      "gunAdiTR": "Çarşamba",
+      "gunAdiEN": "Wednesday",
+      "baslangicSaati": "12:30/15:29",
+      "bitisSaati": "",
+      "binaKodu": "DZB",
+      "kontenjan": 5,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "MEN_LS, MTM_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "18.09.2025 00:18:29"
+}

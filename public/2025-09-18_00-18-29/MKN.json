@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "15031",
+      "dersKodu": "MKN 401",
+      "dersBransKoduId": 184,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Mekatroniğin  Temelleri",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Onur Keskin",
+      "mekanAdi": "D360 D360",
+      "gunAdiTR": "Pazartesi Çarşamba",
+      "gunAdiEN": "Monday Wednesday",
+      "baslangicSaati": "12:30/13:29 13:30/15:29",
+      "bitisSaati": "",
+      "binaKodu": "MKB MKB",
+      "kontenjan": 40,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "MAK_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "18.09.2025 00:18:29"
+}

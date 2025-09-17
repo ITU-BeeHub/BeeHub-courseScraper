@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "13645",
+      "dersKodu": "STI 101",
+      "dersBransKoduId": 159,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Statistics I",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Raziye Selim",
+      "mekanAdi": "109",
+      "gunAdiTR": "Perşembe",
+      "gunAdiEN": "Thursday",
+      "baslangicSaati": "14:30/17:29",
+      "bitisSaati": "",
+      "binaKodu": "MSB",
+      "kontenjan": 35,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "SIS_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "18.09.2025 00:18:29"
+}

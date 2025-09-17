@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "14657",
+      "dersKodu": "ULP 101",
+      "dersBransKoduId": 195,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "NewBeg.Fresh.Sem.&Serv to L. I",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "-",
+      "mekanAdi": "--",
+      "gunAdiTR": "Pazartesi",
+      "gunAdiEN": "Monday",
+      "baslangicSaati": "18:30/20:29",
+      "bitisSaati": "",
+      "binaKodu": "MED",
+      "kontenjan": 500,
+      "ogrenciSayisi": 72,
+      "rezervasyon": "-",
+      "sinifProgram": "MBI_LS, SBL_LS, SED_LS, SEK_LS, SEN_LS, SIN_LS, SIS_LS, SMT_LS, STP_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "18.09.2025 00:18:29"
+}
