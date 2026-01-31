@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "24096",
+      "dersKodu": "ISH 202E",
+      "dersBransKoduId": 231,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Introduction to Heat Transfer",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Mustafa Sertbaş",
+      "mekanAdi": "207",
+      "gunAdiTR": "Perşembe",
+      "gunAdiEN": "Thursday",
+      "baslangicSaati": "08:30/11:29",
+      "bitisSaati": "",
+      "binaKodu": "ISB",
+      "kontenjan": 50,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "ISL_LS, ISLE_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "01.02.2026 01:50:38"
+}

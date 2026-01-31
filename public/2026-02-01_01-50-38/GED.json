@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "24838",
+      "dersKodu": "GED 103",
+      "dersBransKoduId": 138,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Intr.to World Affairs",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Umut Uzer",
+      "mekanAdi": "--",
+      "gunAdiTR": "Çarşamba",
+      "gunAdiEN": "Wednesday",
+      "baslangicSaati": "08:30/11:29",
+      "bitisSaati": "",
+      "binaKodu": "BBB",
+      "kontenjan": 40,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "SBL_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "01.02.2026 01:50:38"
+}

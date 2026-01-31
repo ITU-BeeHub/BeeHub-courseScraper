@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "23950",
+      "dersKodu": "IEB 112E",
+      "dersBransKoduId": 314,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Intr. to Manufacturing Systems",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Ömer Faruk Beyca",
+      "mekanAdi": "--",
+      "gunAdiTR": "Pazartesi",
+      "gunAdiEN": "Monday",
+      "baslangicSaati": "14:00/16:59",
+      "bitisSaati": "",
+      "binaKodu": "BPB",
+      "kontenjan": 40,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "IEBE_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "01.02.2026 01:50:38"
+}

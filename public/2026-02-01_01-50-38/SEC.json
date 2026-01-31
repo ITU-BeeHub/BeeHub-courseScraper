@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "23961",
+      "dersKodu": "SEC 221E",
+      "dersBransKoduId": 308,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Fundamentals of Cryptography",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "İbrahim Gülataş",
+      "mekanAdi": "--",
+      "gunAdiTR": "Çarşamba",
+      "gunAdiEN": "Wednesday",
+      "baslangicSaati": "08:30/11:29",
+      "bitisSaati": "",
+      "binaKodu": "BBB",
+      "kontenjan": 30,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "SECE_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "01.02.2026 01:50:38"
+}

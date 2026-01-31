@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "23857",
+      "dersKodu": "CMP 113",
+      "dersBransKoduId": 146,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Intr.to Business Computing",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Muhsin Kadıoğlu",
+      "mekanAdi": "--",
+      "gunAdiTR": "Çarşamba",
+      "gunAdiEN": "Wednesday",
+      "baslangicSaati": "08:30/12:29",
+      "bitisSaati": "",
+      "binaKodu": "DZB",
+      "kontenjan": 10,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "SDU_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "01.02.2026 01:50:38"
+}

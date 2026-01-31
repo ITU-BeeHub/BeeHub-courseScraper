@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "21938",
+      "dersKodu": "ROS 201E",
+      "dersBransKoduId": 307,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Foundational Mathematics for Robotics",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Osman Ervan",
+      "mekanAdi": "2102",
+      "gunAdiTR": "Cuma",
+      "gunAdiEN": "Friday",
+      "baslangicSaati": "14:00/16:59",
+      "bitisSaati": "",
+      "binaKodu": "EEB",
+      "kontenjan": 50,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "KOM_LS, KOME_LS, ROS_LS, ROSE_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "01.02.2026 01:50:38"
+}
