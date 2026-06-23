@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30302",
+      "dersKodu": "CHZ 318",
+      "dersBransKoduId": 81,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Endüstriyel Hammaddeler",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Murat Olgaç Kangal",
+      "mekanAdi": "-- --",
+      "gunAdiTR": "Pazartesi Pazartesi",
+      "gunAdiEN": "Monday Monday",
+      "baslangicSaati": "09:30/12:59 14:00/17:29",
+      "bitisSaati": "",
+      "binaKodu": "MDB MDB",
+      "kontenjan": 50,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "CHZ_LS, CHZ_YD, MAD_LS, MAD_YD",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "23.06.2026 23:47:49"
+}

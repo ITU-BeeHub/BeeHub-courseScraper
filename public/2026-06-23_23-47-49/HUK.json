@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30259",
+      "dersKodu": "HUK 201",
+      "dersBransKoduId": 41,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "İş Hukuku",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Mahmut Kabakcı",
+      "mekanAdi": "-- --",
+      "gunAdiTR": "Perşembe Cuma",
+      "gunAdiEN": "Thursday Friday",
+      "baslangicSaati": "13:30/17:29 09:30/12:29",
+      "bitisSaati": "",
+      "binaKodu": "MSB MSB",
+      "kontenjan": 140,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "AIN_LS, BIO_LS, BIOE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, IEBE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, JEF_LS, JEFE_LS, KIM_LS, KIME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, NAE_LS, ROS_LS, ROSE_LS, SED_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "23.06.2026 23:47:49"
+}

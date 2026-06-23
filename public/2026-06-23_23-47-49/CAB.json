@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30453",
+      "dersKodu": "CAB 444",
+      "dersBransKoduId": 127,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Yrd.Çalgı Piyano  VIII",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Alper Rumelioğlu",
+      "mekanAdi": "-- --",
+      "gunAdiTR": "Pazartesi Pazartesi",
+      "gunAdiEN": "Monday Monday",
+      "baslangicSaati": "10:30/12:29 13:30/16:29",
+      "bitisSaati": "",
+      "binaKodu": "TMB TMB",
+      "kontenjan": 15,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "BST_LS, CAB_LS, CEB_LS, KMP_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "23.06.2026 23:47:49"
+}

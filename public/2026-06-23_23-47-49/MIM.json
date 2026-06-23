@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30255",
+      "dersKodu": "MIM 346",
+      "dersBransKoduId": 20,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Bina, İklim, Enerji İlişkileri",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Gülten Manioğlu",
+      "mekanAdi": "136B 136B",
+      "gunAdiTR": "Çarşamba Çarşamba",
+      "gunAdiEN": "Wednesday Wednesday",
+      "baslangicSaati": "09:00/12:29 13:30/16:59",
+      "bitisSaati": "",
+      "binaKodu": "MMB MMB",
+      "kontenjan": 12,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "MIM_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "23.06.2026 23:47:49"
+}

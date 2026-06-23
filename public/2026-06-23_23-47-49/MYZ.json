@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30275",
+      "dersKodu": "MYZ 312",
+      "dersBransKoduId": 309,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Meteorolojide Makine Öğrenmesi",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Ahmet Öztopal",
+      "mekanAdi": "2D13 2D13",
+      "gunAdiTR": "Cuma Cuma",
+      "gunAdiEN": "Friday Friday",
+      "baslangicSaati": "08:30/12:29 14:30/17:29",
+      "bitisSaati": "",
+      "binaKodu": "MEDC MEDC",
+      "kontenjan": 20,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "IBM_LS, MTO_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "23.06.2026 23:47:49"
+}

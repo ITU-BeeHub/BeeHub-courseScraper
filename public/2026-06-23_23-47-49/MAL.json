@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "30454",
+      "dersKodu": "MAL 201",
+      "dersBransKoduId": 48,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Malzeme Bilimi",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Mehtap Arslan Kaba",
+      "mekanAdi": "D202 D202",
+      "gunAdiTR": "Salı Çarşamba",
+      "gunAdiEN": "Tuesday Wednesday",
+      "baslangicSaati": "08:30/11:59 08:30/11:59",
+      "bitisSaati": "",
+      "binaKodu": "KMB KMB",
+      "kontenjan": 25,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "GID_LS, KMM_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "23.06.2026 23:47:49"
+}
