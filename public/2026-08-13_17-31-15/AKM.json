@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "11701",
+      "dersKodu": "AKM 219E",
+      "dersBransKoduId": 42,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Fluid Mechanics",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Ayşe Gül Güngör",
+      "mekanAdi": "2D11",
+      "gunAdiTR": "Çarşamba",
+      "gunAdiEN": "Wednesday",
+      "baslangicSaati": "09:30/12:29",
+      "bitisSaati": "",
+      "binaKodu": "MEDC",
+      "kontenjan": 30,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "UCK_LS, UZB_LS, UZBE_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "13.08.2026 17:31:15"
+}

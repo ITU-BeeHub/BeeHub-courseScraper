@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "13904",
+      "dersKodu": "FZT 203E",
+      "dersBransKoduId": 325,
+      "dilKodu": "en-us",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Theory of Groups in Physics",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Mehmet Özkan",
+      "mekanAdi": "-- --",
+      "gunAdiTR": "Pazartesi Çarşamba",
+      "gunAdiEN": "Monday Wednesday",
+      "baslangicSaati": "14:30/16:29 13:30/15:29",
+      "bitisSaati": "",
+      "binaKodu": "undeclared undeclared",
+      "kontenjan": 30,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "FIZ_LS, FIZE_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "13.08.2026 17:31:15"
+}

@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "12934",
+      "dersKodu": "SPA 101",
+      "dersBransKoduId": 172,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Spanish I",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "-",
+      "mekanAdi": "--",
+      "gunAdiTR": "Pazartesi",
+      "gunAdiEN": "Monday",
+      "baslangicSaati": "13:30/16:29",
+      "bitisSaati": "",
+      "binaKodu": "MKB",
+      "kontenjan": 30,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "SMT_LS, STP_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "13.08.2026 17:31:15"
+}

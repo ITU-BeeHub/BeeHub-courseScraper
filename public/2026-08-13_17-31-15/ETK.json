@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "12577",
+      "dersKodu": "ETK 101",
+      "dersBransKoduId": 110,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Mühendislik Etiği",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Nurettin Yakupoğlu",
+      "mekanAdi": "--",
+      "gunAdiTR": "Pazartesi",
+      "gunAdiEN": "Monday",
+      "baslangicSaati": "12:30/13:29",
+      "bitisSaati": "",
+      "binaKodu": "MDB",
+      "kontenjan": 70,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "CHZ_LS, EHB_LS, IML_LS, JEF_LS, JEO_LS, KOM_LS, MAD_LS, MAK_LS, MTO_LS, PET_LS, TEK_LS",
+      "onSart": "Yok",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "13.08.2026 17:31:15"
+}
