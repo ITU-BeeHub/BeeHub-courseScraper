@@ -1,0 +1,31 @@
+{
+  "dersProgramList": [
+    {
+      "dersTanimiId": null,
+      "akademikDonemKodu": null,
+      "programSeviyeTipiId": null,
+      "webdeGoster": true,
+      "crn": "15493",
+      "dersKodu": "ENR 301",
+      "dersBransKoduId": 207,
+      "dilKodu": "tr-tr",
+      "programSeviyeTipi": "lisans",
+      "dersAdi": "Heat Transfer",
+      "ogretimYontemi": "Fiziksel (Yüz yüze)",
+      "adSoyad": "Murat Durmaz",
+      "mekanAdi": "--",
+      "gunAdiTR": "Cuma",
+      "gunAdiEN": "Friday",
+      "baslangicSaati": "09:30/12:29",
+      "bitisSaati": "",
+      "binaKodu": "MEDC",
+      "kontenjan": 20,
+      "ogrenciSayisi": 0,
+      "rezervasyon": "-",
+      "sinifProgram": "NAE_LS",
+      "onSart": "Var",
+      "sinifOnsart": "-"
+    }
+  ],
+  "guncellenmeSaati": "16.09.2026 12:06:11"
+}
